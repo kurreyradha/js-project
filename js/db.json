@@ -1,0 +1,36 @@
+{
+  "Employee": [
+    {
+      "id": "a7ea",
+      "Ename": "rupa",
+      "Esalary": "150",
+      "Ebonus": "50000",
+      "city": "bastiiiii",
+      "mobileno": "91919191919"
+    },
+    {
+      "id": "be0f",
+      "Ename": "suraj",
+      "Esalary": "23456",
+      "Ebonus": "1234",
+      "city": "bhopal",
+      "mobileno": "456778990"
+    },
+    {
+      "id": "ef89",
+      "Ename": "radha",
+      "Esalary": "34567",
+      "Ebonus": "345",
+      "city": "indore",
+      "mobileno": "9999999999"
+    },
+    {
+      "id": "55aa",
+      "Ename": "radha",
+      "Esalary": "34567",
+      "Ebonus": "345",
+      "city": "indore",
+      "mobileno": "666575"
+    }
+  ]
+}

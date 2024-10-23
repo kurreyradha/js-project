@@ -1,0 +1,111 @@
+#mainnav{
+    background-color: rgb(133, 14, 244);
+    height: 70px;
+    box-shadow: 0px 0px 3px 0px;
+  }
+  #menunav{
+  font-size: 35px;
+  font-weight: 700;
+  padding-top: 20px;
+  }
+  
+  #hero{
+      display: flex;
+  }
+  
+  #minih1{
+      height: 523px;
+      width: 250px;
+      background-color: antiquewhite;
+  }
+  #minih2{
+      height: 523px;
+      width: 1160px;
+      background-color: rgb(73, 233, 126);
+  }
+  
+  .das{
+      font-size: 30px;
+      font-weight: 800;
+      padding-top: 20px;
+      padding-left: 30px;
+      background: rgb(149, 5, 239);
+      height: 40px;
+      margin-top: 30px;
+      color: white;
+  }
+  
+  #das2 li  {
+      list-style: none;
+      
+  }
+  
+  #das2  a {
+      list-style: none;
+      text-decoration: none;
+      font-size: 25px;
+      
+  }
+  
+  
+  /* ==========================form csss ========================*/
+  .fo1{
+      border: 2px solid rgba(245, 245, 245, 0.847);
+      height: 500px;
+      width: 400px;
+      margin-left: 300px;
+      margin-top: 10px;
+      background-color: rgb(240, 14, 214);
+      border-radius: 20px;
+      box-shadow: 0px 0px 5px 3px;
+  }
+  .fo1 form{
+      /* padding: 30px; */
+      margin-left: 50px;
+      margin-top: 20px;
+     
+  
+  }
+  
+  .fo1 form input{
+      padding: 20px; 
+      font-size: 20px;
+      border-radius: 20px;
+      border: none;
+      outline:none;
+      color: rgb(127, 9, 231);
+  }
+  .fo1 button{
+      padding: 10px;
+      font-size: 20px;
+      border-radius: 20px;
+      border: none;
+  }
+  
+  
+  /* ================================table ============================= */
+  #tablemain{
+      margin-left: 100px;
+    
+  }
+  
+  
+  /* ==========================search================================ */
+  #search{
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-left: 10px;
+  color: white;
+  }
+  
+  #sein{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  #sein input{
+      padding: 20px;
+      width: 200px;
+      font-size: 20px;
+      border-radius: 20px;
+  }
